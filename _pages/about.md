@@ -39,9 +39,10 @@ My research focuses on multimodal large-language models and advanced LLM reasoni
   <div class="paper-box-text" markdown="1">
 [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/abs/2412.03563)
 
-Xinyi Mou*, Xuanwen Ding*, **Qi He**<sup>*</sup>, Liang Wang*, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei
+Xinyi Mou<sup>*</sup>, Xuanwen Ding<sup>*</sup>, **Qi He**<sup>*</sup>, Liang Wang<sup>*</sup>, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei
   </div>
 </div>
+
 
 <!-- 第二篇 -->
 <div class="paper-box">
