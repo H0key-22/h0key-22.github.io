@@ -29,19 +29,33 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+<!-- 第一篇 -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <img src="images/Survey.png" alt="Survey illustration" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
 [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/abs/2412.03563)
 
-Xinyi Mou\*, Xuanwen Ding\*, **Qi He\***, Liang Wang\*, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei
+Xinyi Mou*, Xuanwen Ding*, **Qi He**<sup>*</sup>, Liang Wang*, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei
+  </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/ToolRL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+<!-- 第二篇 -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <img src="images/ToolRL.png" alt="ToolRL illustration" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
 [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958)
 
 Cheng Qian, Emre Can Acikgoz, **Qi He**, Hongru Wang, Xiusi Chen, Dilek Hakkani-Tür, Gokhan Tur, Heng Ji
+  </div>
+</div>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
