@@ -18,8 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
-I am currently an undergraduate at Fudan University. 
-My research interest includes in the Multimodal LLM and LLM Reasoning. Recently, I am thrilled in exploring reinforcement learning in LLM Reasoning field.
+I’m currently an undergraduate at Fudan University, passionately exploring the frontiers of AI. 
+My research focuses on multimodal large-language models and advanced LLM reasoning techniques. I’m highly self-motivated and always eager to dive into inspiring new challenges.
+**Lately, I’ve been especially excited about leveraging reinforcement learning to push the reasoning capabilities of LLMs even further.**
 
 
 <!-- # 🔥 News
@@ -75,3 +76,8 @@ Cheng Qian, Emre Can Acikgoz, **Qi He**, Hongru Wang, Xiusi Chen, Dilek Hakkani-
 
 # 💻 Internships
 - *2024.06 - 2025.01*, [Fudan DISC](https://www.fudan-disc.com/), Shanghai, China.
+
+# ⚽ My Passions
+
+I live and breathe soccer—whether it’s a last-minute goal or a friendly match with friends, I’m all in!  
+🏆 Led my institute squad to victory in the Institute Cup and proudly snagged the Best Shooter award!  
