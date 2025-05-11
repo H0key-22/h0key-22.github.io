@@ -27,7 +27,7 @@ My research focuses on multimodal large-language models and advanced LLM reasoni
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# Publications 
 
 <!-- 第一篇 -->
 <div class="paper-box">
@@ -65,20 +65,20 @@ Cheng Qian, Emre Can Acikgoz, **Qi He**, Hongru Wang, Xiusi Chen, Dilek Hakkani-
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2023.9*  Fudan University Scholarship
 - *2023.10* Fudan University Excellent Student
 - *2024.9* Fudan University Scholarship
 - *2024.12* Award in 2024 China Undergraduate Mathematical Contest in Modeling 
 
-# 📖 Educations
+# Educations
 - *2022.06 - 2025.04 (now)*, Bachelor of Data Science, Fudan University, Shanghai, China
   - Supervised by [Prof. Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ&hl)
 
-# 💻 Internships
+# Internships
 - *2024.06 - 2025.01*, [Fudan DISC](https://www.fudan-disc.com/), Shanghai, China.
 
-# ⚽ My Passions
+# My Passions
 
 I live and breathe soccer—whether it’s a last-minute goal or a friendly match with friends, I’m all in!  
 🏆 Led my institute squad to victory in the Institute Cup and proudly snagged the Best Shooter award!  
