@@ -74,9 +74,11 @@ Cheng Qian, Emre Can Acikgoz, **Qi He**, Hongru Wang, Xiusi Chen, Dilek Hakkani-
 # 📖 Educations
 - *2022.06 - 2025.04 (now)*, Bachelor of Data Science, Fudan University, Shanghai, China
   - Supervised by [Prof. Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ&hl)
+  
 
 # 💻 Internships
 - *2024.06 - 2025.01*, [Fudan DISC](https://www.fudan-disc.com/), Shanghai, China.
+- *2025.02 - Now*, [Blender Lab](https://blender.cs.illinois.edu/), Shanghai, China.
 
 # ⚽ My Passions
 
