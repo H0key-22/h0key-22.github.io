@@ -58,6 +58,20 @@ Cheng Qian, Emre Can Acikgoz, **Qi He**, Hongru Wang, Xiusi Chen, Dilek Hakkani-
   </div>
 </div>
 
+<!-- 第二篇 -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <img src="images/MedVL-R1.png" alt="MedVL-R1 illustration" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+[Reinforcing Agentic Medical Vision-Language Reasoner]
+
+Paper will be coming soon!
+  </div>
+</div>
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
