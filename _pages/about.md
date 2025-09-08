@@ -2,20 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Student@Fudan Univerisity
+subtitle: Senior Student@Fudan Univerisity, Research Intern@Blender Lab
 
 
 profile:
   align: left
-  image: bio_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <a href="/assets/pdf/cv.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
-      <a href="https://www.linkedin.com/in/yu-changqian/"><i class="fa-brands fa-linkedin fa-2x"></i></a>
-      <a href="https://scholar.google.com/citations?user=Hv-vj2sAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-      <a href="https://github.com/yu-changqian"><i class="fa-brands fa-square-github fa-2x"></i></a>
-      <a href="https://x.com/ChangqianYu"><i class="fa-brands fa-square-x-twitter fa-2x"></i></a>
-      <a href="https://www.zhihu.com/people/yu-chang-qian"><i class="fa-brands fa-zhihu fa-2x"></i></a>
+      <a href="mailto:your_email@example.com"><i class="fa-solid fa-envelope fa-2x"></i></a>
+      <a href="https://scholar.google.com/citations?user=3wsV7ZIAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+      <a href="https://github.com/H0key-22"><i class="fa-brands fa-square-github fa-2x"></i></a>
       
 
 news: true # includes a list of news items
@@ -34,8 +31,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m currently an undergraduate at Fudan University, passionately exploring the frontiers of AI. My research focuses on multimodal large-language models and advanced LLM reasoning techniques. I’m highly self-motivated and always eager to dive into inspiring new challenges. Lately, I’ve been especially excited about leveraging reinforcement learning to push the reasoning capabilities of LLMs even further.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- My industry experience includes being a research intern at **Microsoft Research Asia** and **Megvii (Face++)**, where I collaborated with [Dr. Jingdong Wang](https://jingdongwang2017.github.io/), [Dr. Gang Yu](https://www.skicyyu.org/), and [Dr. Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en). I was part of the winning team at the COCO & Mapillary Panoptic Segmentation Challenge 2018. -->
