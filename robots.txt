@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://h0key-22.github.io/sitemap.xml
