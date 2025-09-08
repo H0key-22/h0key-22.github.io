@@ -7,7 +7,7 @@ subtitle: Senior Student@Fudan Univerisity, Research Intern@Blender Lab
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: bio_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
       <a href="mailto:your_email@example.com"><i class="fa-solid fa-envelope fa-2x"></i></a>
