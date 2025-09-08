@@ -1,20 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Student@Fudan Univerisity
+
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: bio_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+      <a href="/assets/pdf/cv.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
+      <a href="https://www.linkedin.com/in/yu-changqian/"><i class="fa-brands fa-linkedin fa-2x"></i></a>
+      <a href="https://scholar.google.com/citations?user=Hv-vj2sAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+      <a href="https://github.com/yu-changqian"><i class="fa-brands fa-square-github fa-2x"></i></a>
+      <a href="https://x.com/ChangqianYu"><i class="fa-brands fa-square-x-twitter fa-2x"></i></a>
+      <a href="https://www.zhihu.com/people/yu-chang-qian"><i class="fa-brands fa-zhihu fa-2x"></i></a>
+      
 
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+awards: true
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
