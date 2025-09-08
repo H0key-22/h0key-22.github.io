@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Student@Fudan Univerisity, Research Intern@Blender Lab
+subtitle: Senior Student@Fudan Univerisity, Research Intern@Blender Lab, The Reds@Liverpool FC
 
 
 profile:
@@ -25,10 +25,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I’m currently an undergraduate at Fudan University, passionately exploring the frontiers of AI. My research focuses on multimodal large-language models and advanced LLM reasoning techniques. I’m highly self-motivated and always eager to dive into inspiring new challenges. Lately, I’ve been especially excited about leveraging reinforcement learning to push the reasoning capabilities of LLMs even further.
