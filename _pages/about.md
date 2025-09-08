@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Student@Fudan Univerisity, Research Intern@Blender Lab, The Reds@Liverpool FC
+subtitle: Senior Student@Fudan Univerisity, Research Intern@Blender Lab, Ex-Research Intern@Fudan NLP, Reds@Liverpool FC
 
 
 profile:
