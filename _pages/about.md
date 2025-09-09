@@ -3,6 +3,11 @@ layout: about
 title: About
 permalink: /
 subtitle: Senior Student@Fudan Univerisity, Research Intern@Blender Lab, Research Intern@Fudan NLP, Reds@Liverpool FC
+_styles: >
+  /* 如果你想要教授链接有特殊颜色，可以取消下面的注释 */
+  .post a[href*="scholar.google.com"] {
+    color: #28a745 !important;
+  } */
 
 
 profile:
