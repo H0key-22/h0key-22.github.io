@@ -32,3 +32,8 @@ I’m a senior student at **Fudan University** under the guidance of [Prof. Zhon
 My research focuses on multimodal large-language models and advanced LLM reasoning techniques. I’m highly self-motivated and always eager to dive into inspiring new challenges. My research interests lies in **tool learning, RL for reasoning and multimodality**. Lately, I’ve been especially excited about leveraging reinforcement learning to push the reasoning capabilities of LLMs even further.
 
 Feel free to reach out to me to explore potential research opportunities together.
+
+## Passions
+- ⚽ I live and breathe soccer — from last-minute goals to casual kick-abouts with friends, I’m all in!  
+- 🏆 Led my institute squad to victory in the Institute Cup and proudly snagged the Best Shooter award!  
+- 🔴 A devoted Liverpool FC supporter — You’ll never walk alone!  
