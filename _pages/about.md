@@ -27,7 +27,7 @@ announcements:
 ---
 **Welcome !**
 
-I’m a senior student at **Fudan University** under the guidance of [Prof. Zhongyu Wei](https://scholar.google.com/citations?hl=en&user=AjLDxxgAAAAJ){: .professor } at **Fudan Disc Lab**, passionately exploring the frontiers of AI. Currently, I am working as a intern at **Blender Lab** at **University of Illinois Urbana-Champaign** under the supervision of [Prof. Heng Ji](https://scholar.google.com/citations?hl=en&user=z7GCqT4AAAAJ){: .professor }.
+I’m a senior student at **Fudan University** under the guidance of [Prof. Zhongyu Wei](https://scholar.google.com/citations?hl=en&user=AjLDxxgAAAAJ){: .professor } at **Fudan Disc Lab**, passionately exploring the frontiers of AI. Currently, I am working as an intern at **Blender Lab** at **University of Illinois Urbana-Champaign** under the supervision of [Prof. Heng Ji](https://scholar.google.com/citations?hl=en&user=z7GCqT4AAAAJ){: .professor }.
 
 My research focuses on multimodal large-language models and advanced LLM reasoning techniques. I’m highly self-motivated and always eager to dive into inspiring new challenges. My research interests lies in **tool learning, RL for reasoning and multimodality**. Lately, I’ve been especially excited about leveraging reinforcement learning to push the reasoning capabilities of LLMs even further.
 
