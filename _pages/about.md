@@ -8,6 +8,20 @@ _styles: >
     width: 100% !important;
     max-width: 100%;
   }
+  .publications .title {
+    font-size: 1.2rem !important;
+    font-weight: bold !important;
+  }
+  .publications .author {
+    font-size: 1.1rem !important;
+  }
+  .publications .periodical {
+    font-size: 1.05rem !important;
+  }
+  .publications .preview {
+    width: 100% !important;
+    max-width: 300px !important;
+  }
 
 
 profile:
