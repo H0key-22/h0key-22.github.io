@@ -77,8 +77,11 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
   </article>
+  
+  <!-- Social -->
   <section class="mt-4">
     <h2>Passions</h2>
-    {% include passions.liquid %}
+    {% capture passions_md %}{% include passions.liquid %}{% endcapture %}
+    {{ passions_md | markdownify }}
   </section>
 </div>
