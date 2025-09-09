@@ -3,30 +3,11 @@ layout: about
 title: About
 permalink: /
 subtitle: Senior Student@Fudan Univerisity, Research Intern@Blender Lab, Research Intern@Fudan NLP, Reds@Liverpool FC
-_styles: >
-  .profile .more-info {
-    width: 100% !important;
-    max-width: 100%;
-  }
-  .publications .title {
-    font-size: 1.2rem !important;
-    font-weight: bold !important;
-  }
-  .publications .author {
-    font-size: 1.1rem !important;
-  }
-  .publications .periodical {
-    font-size: 1.05rem !important;
-  }
-  .publications .preview {
-    width: 100% !important;
-    max-width: 300px !important;
-  }
 
 
 profile:
   align: left
-  image: bio_pic.png
+  image: bio_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
       <a href="mailto:qhe22@m.fudan.edu.cn"><i class="fa-solid fa-envelope fa-2x"></i></a>
