@@ -200,6 +200,7 @@ ul.task-list input[type="checkbox"] {
     margin-top: 5px;
     font-family: monospace;
     width: 100%; // 确保 more_info 与图片宽度一致
+    text-align: center; // 图标居中对齐
 
     p {
       display: inline-block;
