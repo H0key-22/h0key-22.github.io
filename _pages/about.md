@@ -5,7 +5,7 @@ permalink: /
 subtitle: Senior Student@Fudan Univerisity, Research Intern@Blender Lab, Research Intern@Fudan NLP, Reds@Liverpool FC
 
 profile:
-  align: left
+  align: right
   image: bio_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
