@@ -31,30 +31,64 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
-// Motto sits in the empty area above the profile photo.
-// Absolute positioning keeps the photo, bio, and sections unmoved.
+// About page: name | motto
+//              subtitle | photo
+//              bio | photo
 @media (min-width: 576px) {
-  .post-header {
-    position: relative;
-
-    .post-title,
-    .desc {
-      padding-right: 32%;
-    }
+  .about-page {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 30%;
+    column-gap: 1rem;
+    align-items: start;
   }
 
-  .profile-motto {
-    position: absolute;
-    top: 50%;
-    right: 0;
-    width: 30%;
+  .about-page .post-header,
+  .about-page .about-article {
+    display: contents;
+  }
+
+  .about-page .post-title {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .about-page .desc {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .about-page .profile-motto {
+    grid-column: 2;
+    grid-row: 1;
+    position: static;
+    width: 100%;
     margin: 0;
-    transform: translateY(-50%);
+    transform: none;
+    align-self: center;
     text-align: center;
     font-style: italic;
     font-size: 0.98rem;
     line-height: 1.45;
     color: var(--global-theme-color);
+  }
+
+  .about-page .profile {
+    grid-column: 2;
+    grid-row: 2 / 4;
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .about-page .about-bio {
+    grid-column: 1;
+    grid-row: 3;
+  }
+
+  .about-page .about-rest {
+    grid-column: 1 / -1;
+    grid-row: 4;
   }
 }
 
