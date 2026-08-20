@@ -1,15 +1,15 @@
 "arXiv":
   url: https://arxiv.org/
-  color: "#002147"
+  color: "#1a56a0"
 
 "ACL Findings":
   url: https://aclanthology.org/
-  color: "#002147"
+  color: "#1a56a0"
 
 "NeurIPS":
   url: https://neurips.cc/
-  color: "#002147"
+  color: "#1a56a0"
 
 "ACM Surveys":
   url: https://dl.acm.org/journal/csur
-  color: "#002147"
+  color: "#1a56a0"

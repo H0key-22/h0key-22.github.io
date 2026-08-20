@@ -31,6 +31,34 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+// Motto sits in the empty area above the profile photo.
+// Absolute positioning keeps the photo, bio, and sections unmoved.
+@media (min-width: 576px) {
+  .post-header {
+    position: relative;
+  }
+
+  .profile-motto {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 30%;
+    margin: 0;
+    transform: translateY(-50%);
+    text-align: center;
+    font-style: italic;
+    font-size: 0.98rem;
+    line-height: 1.45;
+    color: var(--global-theme-color);
+  }
+}
+
+@media (max-width: 575.98px) {
+  .profile-motto {
+    display: none;
+  }
+}
+
 // Profile
 .profile {
   img {
