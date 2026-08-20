@@ -63,46 +63,17 @@ body.sticky-bottom-footer {
   }
 }
 
-// Profile photo and icons share the same 70% column.
+// Profile
 .profile {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  figure,
-  .more-info {
-    width: 70%;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
   figure {
-    margin-top: 0;
-    margin-bottom: 0.35rem;
+    width: 70%;
+    margin: 0;
   }
 
   img {
     display: block;
     width: 100%;
     height: auto;
-  }
-
-  .more-info {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 0.4em;
-    text-align: center;
-  }
-}
-
-@media (min-width: 576px) {
-  .profile.float-right {
-    align-items: flex-end;
-  }
-
-  .profile.float-left {
-    align-items: flex-start;
   }
 }
 
