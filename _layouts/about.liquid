@@ -78,10 +78,11 @@ layout: default
     {% endif %}
   </article>
   
-  <!-- Passions -->
-  <section class="mt-4">
-    <h2>Passions</h2>
-    {% capture passions_md %}{% include passions.liquid %}{% endcapture %}
-    {{ passions_md | markdownify }}
-  </section>
+  {% if page.passions %}
+    <section class="mt-4">
+      <h2>Passions</h2>
+      {% capture passions_md %}{% include passions.liquid %}{% endcapture %}
+      {{ passions_md | markdownify }}
+    </section>
+  {% endif %}
 </div>

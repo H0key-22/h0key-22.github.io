@@ -1,8 +1,8 @@
 ---
 layout: post
-date: Sep.2023
+date: Sep.2026
 inline: true
 related_posts: false
 ---
 
-Fudan University Scholarship
+Join Hong Kong University of Science and Technology as a CSE PhD Student.

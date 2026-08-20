@@ -206,6 +206,18 @@ ul.task-list input[type="checkbox"] {
       display: inline-block;
       margin: 0;
     }
+
+    a,
+    i,
+    i::before {
+      color: var(--global-theme-color);
+    }
+
+    a:hover,
+    a:hover i::before {
+      color: var(--global-hover-color);
+      opacity: 0.75;
+    }
   }
 }
 
@@ -1427,8 +1439,9 @@ figure.cover {
 }
 
 .post a.professor {
-  color: #007bff !important;
+  color: var(--global-theme-color) !important;
 }
 .post a.professor:hover {
-  color: #0056b3 !important;
+  color: var(--global-hover-color) !important;
+  opacity: 0.75;
 }
