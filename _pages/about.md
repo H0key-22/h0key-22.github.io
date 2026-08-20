@@ -33,3 +33,5 @@ I’m a first-year PhD  student at **Hong Kong University of Science and Technol
 My research focuses on reasoning techniques. My research interests lie in **RL for Reasoning, Diffusion Language Models, and Efficient AI Architectures**. Lately, I've been especially excited about **on-device AI**, aiming to build personal and reliable AI systems.
 
 Feel free to reach out to me to explore potential research opportunities together.
+
+Latest update: Aug, 2026

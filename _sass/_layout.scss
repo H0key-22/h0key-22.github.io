@@ -31,10 +31,9 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
-// Motto beside the name; photo pulled up to sit on the subtitle row.
-// HTML stays the original float layout — only a negative margin is added.
+// Motto sits in the empty area above the profile photo.
 @media (min-width: 576px) {
-  .about-home .post-header {
+  .post-header {
     position: relative;
 
     .post-title,
@@ -43,24 +42,18 @@ body.sticky-bottom-footer {
     }
   }
 
-  .about-home .profile-motto {
+  .profile-motto {
     position: absolute;
-    top: 0;
+    top: 50%;
     right: 0;
     width: 30%;
     margin: 0;
+    transform: translateY(-50%);
     text-align: center;
     font-style: italic;
     font-size: 0.98rem;
     line-height: 1.45;
     color: var(--global-theme-color);
-  }
-
-  // Shift = h1 line-height (2.5rem × 1.2) + h1 margin-bottom (0.5rem).
-  // Tune --about-photo-shift if the photo is a few pixels off.
-  .about-home article > .profile.float-right {
-    --about-photo-shift: 3.5rem;
-    margin-top: calc(-1 * var(--about-photo-shift));
   }
 }
 
