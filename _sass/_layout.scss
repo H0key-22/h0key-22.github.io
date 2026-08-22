@@ -67,7 +67,13 @@ body.sticky-bottom-footer {
 .profile {
   figure {
     width: 70%;
-    margin: 0;
+    margin: 0 auto;
+  }
+
+  .more-info {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   img {
